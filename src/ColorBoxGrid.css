@@ -1,0 +1,13 @@
+.ColorBoxGrid
+{
+    display: flex;
+    flex-wrap: wrap;
+    /* width: 100vw; */
+    /* height: 100vh; */
+}
+
+.ColorBoxGrid > *
+{
+    width: 100px;
+    height: 100px;
+}
